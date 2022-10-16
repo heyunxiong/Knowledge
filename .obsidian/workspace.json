@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "93bffe137bb33e1d",
+        "id": "ec95290d8417102e",
         "type": "tabs",
         "children": [
           {
-            "id": "277eff4e11c8b645",
+            "id": "dcf222d4cb9d0f90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/使用坚果云作为图床.md",
-                "mode": "source",
+                "file": "🏠HomePage.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/使用坚果云作为图床.md"
+                "file": "🏠HomePage.md"
               }
             }
           },
@@ -127,17 +127,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "277eff4e11c8b645",
+  "active": "dcf222d4cb9d0f90",
   "lastOpenFiles": [
-    "README.md",
     "Notes/使用坚果云作为图床.md",
-    "Linux/在Linux上安装软件.md",
-    "Java/Java Overview.md",
-    "Database/数据库的知识点.md",
-    "Database/Redis笔记.md",
+    "🏠HomePage.md",
+    "未命名.md",
     "Database/MySQL和标准SQL的Update区别.md",
     "Database/MySQL.md",
-    "Database/_assets/MySQL和标准SQL的Update区别/image-MySQL和标准SQL的Update区别-20221016-162748811.png",
-    "Database/_assets/MySQL和标准SQL的Update区别/image-MySQL和标准SQL的Update区别-20221016-162742247.png"
+    "README.md",
+    "Linux/在Linux上安装软件.md",
+    "Linux/_assets/在Linux上安装软件/image-在Linux上安装软件-20221016-154050412.png",
+    "Java/Java Overview.md",
+    "Database/数据库的知识点.md"
   ]
 }
