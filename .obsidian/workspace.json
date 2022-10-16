@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "3b5fbfb0d34c9538",
+        "id": "93bffe137bb33e1d",
         "type": "tabs",
         "children": [
           {
-            "id": "7e86eb28e863d919",
+            "id": "277eff4e11c8b645",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da58c37559ada577",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "Notes/使用坚果云作为图床.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Notes/使用坚果云作为图床.md"
               }
             }
           },
@@ -136,22 +122,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 469.5
+    "width": 241.5
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "da58c37559ada577",
+  "active": "277eff4e11c8b645",
   "lastOpenFiles": [
-    "Linux/在Linux上安装软件.md",
-    "Notes/使用坚果云作为图床.md",
     "README.md",
-    "2.md",
-    "_assets/2/wk - Copy.jpg",
-    "Database/_assets/MySQL和标准SQL的Update区别/image-MySQL和标准SQL的Update区别-20221016-162751935.png",
+    "Notes/使用坚果云作为图床.md",
+    "Linux/在Linux上安装软件.md",
+    "Java/Java Overview.md",
+    "Database/数据库的知识点.md",
+    "Database/Redis笔记.md",
+    "Database/MySQL和标准SQL的Update区别.md",
     "Database/MySQL.md",
-    "Tech/未命名 1.md",
-    "Tech/未命名.md",
-    "Tech/_assets/未命名 1/wk - Copy.jpg"
+    "Database/_assets/MySQL和标准SQL的Update区别/image-MySQL和标准SQL的Update区别-20221016-162748811.png",
+    "Database/_assets/MySQL和标准SQL的Update区别/image-MySQL和标准SQL的Update区别-20221016-162742247.png"
   ]
 }
