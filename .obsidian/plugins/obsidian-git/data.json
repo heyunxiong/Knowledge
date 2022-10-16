@@ -1,6 +1,6 @@
 {
-  "commitMessage": "vault backup: {{date}}",
-  "autoCommitMessage": "vault backup: {{date}}",
+  "commitMessage": "obsidian vault backup: {{date}}",
+  "autoCommitMessage": "obsidian vault backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 0,
   "autoPushInterval": 0,
@@ -8,7 +8,7 @@
   "autoPullOnBoot": false,
   "disablePush": false,
   "pullBeforePush": true,
-  "disablePopups": true,
+  "disablePopups": false,
   "listChangedFilesInMessageBody": true,
   "showStatusBar": true,
   "updateSubmodules": false,

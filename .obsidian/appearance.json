@@ -1,6 +1,8 @@
 {
   "theme": "moonstone",
-  "cssTheme": "Atom",
+  "cssTheme": "Minimal",
   "translucency": false,
-  "accentColor": ""
+  "accentColor": "",
+  "baseFontSize": 18,
+  "textFontFamily": "Calibri"
 }

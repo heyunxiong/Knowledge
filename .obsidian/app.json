@@ -5,11 +5,17 @@
   "foldHeading": false,
   "showLineNumber": true,
   "showFrontmatter": true,
-  "trashOption": "local",
+  "trashOption": "system",
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "./_assets_/Java Overview",
+  "attachmentFolderPath": "./_assets/README",
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "newLinkFormat": "relative",
-  "showUnsupportedFiles": true
+  "newLinkFormat": "absolute",
+  "showUnsupportedFiles": true,
+  "spellcheck": false,
+  "newFileLocation": "root",
+  "newFileFolderPath": "",
+  "autoPairMarkdown": true,
+  "readableLineLength": false,
+  "foldIndent": true
 }
