@@ -1,0 +1,15 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "strictLineBreaks": false,
+  "foldHeading": false,
+  "showLineNumber": true,
+  "showFrontmatter": true,
+  "trashOption": "local",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./_assets_/README",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "showUnsupportedFiles": true
+}
