@@ -4,39 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c2f1c25382f2de24",
+        "id": "c8f25eb672636a4a",
         "type": "tabs",
         "children": [
           {
-            "id": "fb81ec1c189f290a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🏠HomePage.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "f1125f7bbbc467dd",
+            "id": "cfc0b54c54a64c4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🏠HomePage.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🏠HomePage.md"
-              }
+              "state": {}
             }
           },
           {
@@ -143,17 +120,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f1125f7bbbc467dd",
+  "active": "cfc0b54c54a64c4c",
   "lastOpenFiles": [
-    "Cloud/AWS/Amazon ECR.md",
-    "Books/代码大全（第二版）/代码大全（第二版）第05章 软件构建中的设计.md",
-    "Books/代码大全（第二版）/代码大全（第二版）第06章 可以工作的类.md",
-    "Books/代码大全（第二版）/代码大全（第二版）第10章 变量.md",
-    "Books/代码大全（第二版）/代码大全（第二版）第07章 高质量的子程序.md",
-    "Books/代码大全（第二版）/代码大全（第二版）第01章 软件构建的世界.md",
-    "Books/代码大全（第二版）/代码大全（第二版）第0章 目录.md",
-    "Books/代码大全（第二版）/代码大全（第二版）第22章 开发者测试.md",
-    "🏠HomePage.md",
-    "未命名.md"
+    "Tech/关于文件在服务器上是否有存档的问题.md",
+    "Softwares/Difference between portable and installer editions.md",
+    "Database/数据库的知识点.md",
+    "Java/Java泛型.md",
+    "Softwares/Chrome 浏览器的隐藏功能.md",
+    "Java/Java 使用 POI 操作 Excel.md",
+    "Softwares/SS + Telegram 端口设置.md",
+    "Tech/微信公众号冻结条例.md",
+    "Tech/POP3 IMAP SMTP Exchange CardDAV CalDAV服务.md",
+    "Softwares/What is the difference between open project and import project in Intellij.md"
   ]
 }

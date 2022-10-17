@@ -6,9 +6,8 @@ table
 , file.ctime as "Create_Timestamp"
 , file.mtime as "Update_Timestamp"
 
-from "/" 
+from "Life" 
 
 sort file.ctime  desc
 
 ```
-
