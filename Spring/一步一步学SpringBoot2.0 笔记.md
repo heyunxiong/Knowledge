@@ -1,6 +1,6 @@
 
 【一步一步学SpringBoot2.0】 笔记
-[https://pan.baidu.com/s/1A5xjEcvE5A2T6I5bmAmkYQ&qrfrom=1&qrtype=rar](https://pan.baidu.com/s/1A5xjEcvE5A2T6I5bmAmkYQ%26qrfrom=1%26qrtype=rar)#/
+[https://pan.baidu.com/s/1A5xjEcvE5A2T6I5bmAmkYQ&qrfrom=1&qrtype=rar](https://pan.baidu.com/s/1A5xjEcvE5A2T6I5bmAmkYQ%26qrfrom=1%26qrtype=rar)
 
 	* 16 status命令查看mysql的安装信息
 	* 

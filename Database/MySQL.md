@@ -37,3 +37,7 @@ SELECT u.name FROM user u where u.id = 100;
 
 ## 进阶操作  
 参考资料 [https://www.cnblogs.com/henryhappier/archive/2010/07/05/1771295.html](https://www.cnblogs.com/henryhappier/archive/2010/07/05/1771295.html)
+
+
+![](_assets/MySQL/image-MySQL-20221019-130016964.png)
+
