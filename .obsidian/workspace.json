@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aa120991f64dfc36",
+        "id": "9be175c6f137061f",
         "type": "tabs",
         "children": [
           {
-            "id": "cab0674273cc3af0",
+            "id": "2625a331adba573c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,8 +19,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b0b08576279a3912",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/深入理解Java虚拟机/深入理解Java虚拟机 第7章 虚拟机类加载机制.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6a37f42f8e3e618",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory/Design Pattern/设计模式.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏠HomePage.md"
+                "file": "Books/深入理解Java虚拟机/深入理解Java虚拟机 第7章 虚拟机类加载机制.md"
               }
             }
           },
@@ -127,17 +154,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "cab0674273cc3af0",
+  "active": "1c2074442c1dadd4",
   "lastOpenFiles": [
+    "Theory/Design Pattern/设计模式.md",
+    "Books/深入理解Java虚拟机/深入理解Java虚拟机 第7章 虚拟机类加载机制.md",
     "🏠HomePage.md",
+    "Books/深入理解Java虚拟机/深入理解Java虚拟机 第6章 类文件结构.md",
+    "Books/深入理解Java虚拟机/深入理解Java虚拟机 第2章 Java内存区域与内存溢出异常.md",
+    "Books/深入理解Java虚拟机/深入理解Java虚拟机  第1章 走进Java.md",
     "未命名.md",
     "Web/java web 之 WebRoot和WebContent目录.md",
     "Web/UML 图总结.md",
-    "Database/MyBatis.md",
-    "Theory/Data Structure/逻辑结构和存储结构的区别.md",
-    "Theory/Data Structure/算法排序类别.md",
-    "Tech/软件、项目发布 版本代号.md",
-    "Theory/Data Structure/数据结构的基本概念.md",
-    "Theory/Design Pattern/设计模式-单例和工厂.md"
+    "Database/MyBatis.md"
   ]
 }
