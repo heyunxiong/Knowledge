@@ -4,21 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "00c6f79b6a345697",
+        "id": "5c9edda3bb321195",
         "type": "tabs",
         "children": [
           {
-            "id": "d170c2e3ae07636b",
+            "id": "6732e57c76497176",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "321a063ce9159aed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/appearance.json",
-                "staged": false
+                "file": "🏠HomePage.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🏠HomePage.md"
+              }
             }
           },
           {
@@ -120,14 +133,11 @@
     "direction": "horizontal",
     "width": 284.5
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "d170c2e3ae07636b",
+  "active": "321a063ce9159aed",
   "lastOpenFiles": [
+    "🏠HomePage.md",
     "Database/MySQL.md",
     "Database/Redis笔记.md",
-    "🏠HomePage.md",
     "_assets/深入理解Java虚拟机 第2章 Java内存区域与内存溢出异常/Diagram.svg",
     "Books/深入理解Java虚拟机/深入理解Java虚拟机 第7章 虚拟机类加载机制.md",
     "Books/深入理解Java虚拟机/深入理解Java虚拟机 第8章 虚拟机执行引擎.md",
