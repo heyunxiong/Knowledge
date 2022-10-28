@@ -27,9 +27,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c611fe735053ae01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Test.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏠HomePage.md"
+                "file": "Notes/Test.md"
               }
             }
           },
@@ -133,7 +146,7 @@
     "direction": "horizontal",
     "width": 284.5
   },
-  "active": "321a063ce9159aed",
+  "active": "c611fe735053ae01",
   "lastOpenFiles": [
     "🏠HomePage.md",
     "Database/MySQL.md",
