@@ -1,5 +1,6 @@
 {
   "pinned": [
+    "markdown:toggle-preview",
     "app:toggle-left-sidebar",
     "app:toggle-right-sidebar",
     "obsidian-mind-map:app:markmap-preview",

@@ -9,5 +9,6 @@
   "homepage",
   "dataview",
   "obsidian-table-generator",
-  "obsidian-tabs"
+  "obsidian-tabs",
+  "obsidian-markdown-formatting-assistant-plugin"
 ]

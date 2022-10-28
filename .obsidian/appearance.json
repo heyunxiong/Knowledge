@@ -1,8 +1,8 @@
 {
-  "theme": "obsidian",
+  "theme": "moonstone",
   "cssTheme": "Minimal",
   "translucency": false,
   "accentColor": "",
   "baseFontSize": 17,
-  "textFontFamily": "Segoe UI Symbol,Calibri"
+  "textFontFamily": "Microsoft YaHei UI"
 }

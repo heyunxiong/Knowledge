@@ -7,7 +7,7 @@
   "showFrontmatter": true,
   "trashOption": "system",
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "./_assets/深入理解Java虚拟机 第7章 虚拟机类加载机制",
+  "attachmentFolderPath": "./_assets/MySQL",
   "promptDelete": true,
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative",
@@ -15,7 +15,8 @@
   "spellcheck": false,
   "newFileLocation": "root",
   "newFileFolderPath": "",
-  "autoPairMarkdown": true,
+  "autoPairMarkdown": false,
   "readableLineLength": false,
-  "foldIndent": true
+  "foldIndent": true,
+  "defaultViewMode": "preview"
 }
