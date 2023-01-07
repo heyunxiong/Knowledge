@@ -7,16 +7,16 @@
   "showFrontmatter": true,
   "trashOption": "system",
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "./_assets/Test",
-  "promptDelete": true,
+  "attachmentFolderPath": "./_assets/_Home_",
+  "promptDelete": false,
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative",
   "showUnsupportedFiles": true,
   "spellcheck": false,
   "newFileLocation": "root",
   "newFileFolderPath": "",
-  "autoPairMarkdown": false,
-  "readableLineLength": false,
+  "autoPairMarkdown": true,
+  "readableLineLength": true,
   "foldIndent": true,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "source"
 }

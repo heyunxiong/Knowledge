@@ -1,14 +1,8 @@
 [
   "obsidian-custom-attachment-location",
-  "obsidian-git",
   "txt-as-md-obsidian",
-  "obsidian-mind-map",
   "obsidian-diagrams-net",
   "oz-clear-unused-images",
-  "table-editor-obsidian",
-  "homepage",
   "dataview",
-  "obsidian-table-generator",
-  "obsidian-tabs",
-  "obsidian-markdown-formatting-assistant-plugin"
+  "obsidian-hypothesis-plugin"
 ]

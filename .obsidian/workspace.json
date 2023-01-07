@@ -4,45 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "5c9edda3bb321195",
+        "id": "ce4c2aec4f7486ac",
         "type": "tabs",
         "children": [
           {
-            "id": "6732e57c76497176",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "321a063ce9159aed",
+            "id": "f4d1ae0c985f75c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏠HomePage.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c611fe735053ae01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Test.md",
+                "file": "_Home_.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hadoop",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312
+    "width": 269.5
   },
   "right": {
     "id": "ecefe6dc7f755061",
@@ -109,7 +87,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
@@ -119,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Test.md"
+                "file": "_Home_.md"
               }
             }
           },
@@ -139,24 +117,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 284.5,
+    "collapsed": true
   },
-  "active": "c611fe735053ae01",
+  "active": "f4d1ae0c985f75c0",
   "lastOpenFiles": [
-    "🏠HomePage.md",
-    "Database/MySQL.md",
-    "Database/Redis笔记.md",
-    "_assets/深入理解Java虚拟机 第2章 Java内存区域与内存溢出异常/Diagram.svg",
-    "Books/深入理解Java虚拟机/深入理解Java虚拟机 第7章 虚拟机类加载机制.md",
-    "Books/深入理解Java虚拟机/深入理解Java虚拟机 第8章 虚拟机执行引擎.md",
-    "CICD/git rebase 基本操作.md",
-    "CICD/Git 操作命令实例.md",
-    "Database/MyBatis.md",
-    "Books/深入理解Java虚拟机/深入理解Java虚拟机  第1章 走进Java.md"
+    "700-Wiki/710-Explained/什么是seata？.md",
+    "700-Wiki/710-Explained/notes-draft.md",
+    "_Home_.md",
+    "700-Wiki/710-Explained/AskWhy-3.md",
+    "700-Wiki/710-Explained/AskWhy-4.md",
+    "100-Language/150-Web/随手练习.md",
+    "700-Wiki/710-Explained/AskWhy-2.md",
+    "700-Wiki/710-Explained/AskWhy-1.md",
+    "100-Language/130-C/C结构体.md",
+    "100-Language/130-C/C Language.md"
   ]
 }
